@@ -1,0 +1,24 @@
+[
+    {
+        "title":"命名规范",
+        "con":[
+            {
+                 "id":"project",
+                "text":"目录命名"
+            },
+            {
+                 "id":"project",
+                "text":"文件命名"
+            },
+            {
+                 "id":"project",
+                "text":"class命名规范"
+            },
+            {
+                 "id":"project",
+                "text":"嵌入资源"
+            }
+        ]
+
+    }
+]
